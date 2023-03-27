@@ -1,1 +1,1 @@
-# Data-Analysis-Visualization-Covid-19-WHO-Regions
+# Data Analysis/Visualization of Covid-19 in WHO Regions
